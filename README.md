@@ -1,3 +1,5 @@
+![c programming](https://media.vlpt.us/images/gojaegaebal/post/f4e8c047-1c94-4777-80a2-541ef065ef62/C-Programming-online-training-nareshit.jpg)
+
 # Test-repository
 깃헙 테스트용 저장소
 
